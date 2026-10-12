@@ -21,10 +21,10 @@
 
 | ID | 설화 | 시점 | 핵심 모듈 | 상태 | 메모 |
 |---|---|---|---|---|---|
-| A01 | 해와 달이 된 오누이 | 현현 | TRK+STL+MOV+CBT+TIM | scenario_complete | 최신 시나리오 확정: 추격→1차전→반기절→참기름→도끼 쟁탈 2차전→등반 추격→동아줄 |
-| A02 | 춘향전 | 현재 | SOC+INV+LIFE+STL+TIM | scenario_complete | 최신 시나리오 확정: 단오 첫 연결→남원 생활→관아 임시 잡역→부패 체험→옥사 업무→암행어사 작전→수연 |
-| A03 | 흥부전 | 현재 | LIFE+GAT+PUZ | concept |  |
-| A04 | 심청전 | 혼합 | MOV+RIT+ESC | concept |  |
+| A01 | 해와 달이 된 오누이 | 현현 | TRK+STL+MOV+CBT+TIM | gameplay_v2 | Godot 구현 포함: 집 탈출→산악 추격→도끼 쟁탈→부상 등반→동아줄 |
+| A02 | 춘향전 | 현재 | SOC+INV+LIFE+STL+TIM | gameplay_v2 | Godot 구현 포함: 단오 첫 연결→관아 임시 잡역→옥사 업무→암행어사 수연 작전 |
+| A03 | 흥부전 | 현재+현현 | LIFE+GAT+ECO+TIM+SOC+MOV+CBT | gameplay_v2_review | Godot 제한 물리 포함: 쫓겨난 가족→제비→흥부 박→놀부 박 대형 난장 |
+| A04 | 심청전 | 혼합 | LIFE+SOC+MOV+TIM+ESC+ECH | gameplay_v2_review | 도화동 부녀→공양미 300석→범피중류→인당수→황성행→맹인잔치 |
 | A05 | 별주부전 | 현현 | MOV+SOC+STL | concept | 원작 토끼가 결정적 탈출을 완성 |
 | A06 | 장화홍련 | 현재 | INV+RIT+SOC | concept |  |
 | A07 | 선녀와 나무꾼 | 현현 | TRK+MOV+PUZ | concept |  |
