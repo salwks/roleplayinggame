@@ -18,11 +18,22 @@
 ## 현재 상태
 
 - Master Source Card: **118**
-- 시나리오 완성: **A01 해와 달이 된 오누이**, **A02 춘향전**
-- 다음 작성: A03 흥부전
+- Gameplay Scenario v2: **A01 해와 달이 된 오누이**, **A02 춘향전**
+- Gameplay Scenario v2 / Review: **A03 흥부전**, **A04 심청전**
+- 다음 작성: **A05 별주부전**
+
+## Gameplay Scenario v2
+
+주요 세트피스마다 다음을 함께 기록한다.
+
+- 플레이어 실제 조작
+- 화면 표현
+- Godot 구현 방식
+- 실제 물리와 연출의 구분
+- 실패/보정
+- 서사적 의미
 
 ## 디렉터리
 
 - `docs/seolhwarok/master/` — 마스터 목록·설계 규칙·공통 모듈
 - `docs/seolhwarok/episodes/` — 에피소드별 상세 시나리오
-
